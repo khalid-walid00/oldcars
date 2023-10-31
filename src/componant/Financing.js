@@ -5,7 +5,7 @@ export default function()
     let showdata=arrtext.map((el,key)=>(
         <div key={key} className="row">
             <div className="fs-4 mt-5"><span className="fs-1 text-red fw-bold">{el.num}</span>{el.title}</div>
-            <div className="w-75">{el.pra}​</div>
+            <div id="pra">{el.pra}​</div>
           </div>
     ))
     return(
