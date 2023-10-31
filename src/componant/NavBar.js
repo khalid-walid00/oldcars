@@ -1,6 +1,6 @@
 import { NavLink } from "react-router-dom";
 export default function NavBar(){
-    return(<div className='container'>
+    return(<div className='contai'>
       <div id="call" className="row mt-3 justify-content-end">
          <div className="col-lg-3" style={{width:"max-content"}}>
          <a className="btnn text-decoration-none px-3 py-2 ">CALL US TODAY 1-800-000-0000</a>

@@ -37,7 +37,7 @@ export default function Home(){
          </div>
         </div>
         <div className="row text-light mt-4">
-            <div className="col fs-1 text-light">Hot On The Lot <span className="opacity-25 text-light">-------------------------------------------------</span></div>
+            <div className="col fs-1 text-light">Hot On The Lot <span className="opacity-25 text-light">----------------------</span></div>
         </div>
         <div className="row mt-4 ">
             {showcard}
