@@ -51,10 +51,6 @@ ul .active {
   :not(ul .active) {
     color: rgb(136, 131, 131);
   }
-  #call {
-    position: relative;
-    top: 100px;
-  }
 }
 input {
   background-color: rgba(38, 37, 37, 0.832);
